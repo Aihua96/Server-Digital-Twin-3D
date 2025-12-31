@@ -1,0 +1,5 @@
+{
+  "name": "Server Digital Twin 3D",
+  "description": "A high-fidelity 3D Digital Twin visualization of a server environment, featuring detailed hardware models including CPU, GPU, and Motherboard with real-time performance simulation and AI-driven hardware analysis.",
+  "requestFramePermissions": []
+}
