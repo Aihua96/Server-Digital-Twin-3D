@@ -23,3 +23,8 @@ export enum ViewMode {
   THERMAL = 'Thermal',
   WIRE = 'Wireframe'
 }
+
+export enum SceneLevel {
+  DATACENTER = 'DATACENTER',
+  SERVER_DETAIL = 'SERVER_DETAIL'
+}
